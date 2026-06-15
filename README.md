@@ -16,13 +16,13 @@ This project uses Simulated Annealing to optimize keyboard layouts by minimizing
 Run with the default sample text:
 
 ```bash
-python keyboard_optimizer.py
+python kbd_optimi.py
 ```
 
 Run with a custom text file:
 
 ```bash
-python keyboard_optimizer.py input.txt
+python kbd_optimi.py input.txt
 ```
 
 ## Output
